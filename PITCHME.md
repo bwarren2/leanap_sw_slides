@@ -4,13 +4,12 @@
 
 ### Purpose
 
-Success =
-
+Goal:
 @ul
 - Feature set triangulation.
 @ulend
 
-Success is:
+Success:
 @ul
 - narrowing the feature space,
 - decreasing unknowns
