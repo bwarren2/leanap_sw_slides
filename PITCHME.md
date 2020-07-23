@@ -48,6 +48,6 @@ Note:
 
 @ul
 - This is a **consultative** meeting
-- Anyone + everyone can contribute feature ideas
+- Anyone + everyone can contribute their perspective
 - Final Decision split between PM and Dev
 @ulend
