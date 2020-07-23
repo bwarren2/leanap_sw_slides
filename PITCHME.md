@@ -13,6 +13,8 @@ _Still need to build it for real._
 Notes:
   Style is not a focus.
 
+---
+
 ### Metaphor
 
 ![Foo](img/golf.png)
