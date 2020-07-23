@@ -17,7 +17,7 @@ Note:
 
 ### Metaphor
 
-<img src="img/golf.jpg" alt="Golf" height="30%" width="30%">
+<img src="img/golf.jpg" alt="Golf" height="50%" width="50%">
 
 Note:
   Think about this like a hole in golf.  You start with bigger, less accurate shots, and use smaller, more accurate shots until you hit your objective.  _It is important the objective does not move_.
