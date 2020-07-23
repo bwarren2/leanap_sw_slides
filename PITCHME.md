@@ -41,3 +41,13 @@ Note:
 - discussion (< 20min)
 - next steps (< 10min)
 @ulend
+
+----
+
+### Nature of the meeting
+
+@ul
+- This is a **consultative** meeting
+- Anyone + everyone can contribute feature ideas
+- Final Decision split between PM and Dev
+@ulend
