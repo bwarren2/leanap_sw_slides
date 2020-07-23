@@ -23,6 +23,15 @@ Note:
 
 ---
 
+### Not This
+
+<img src="https://media1.giphy.com/media/xT0BKnwxcXLm8tyjgk/giphy.gif" alt="NASA">
+
+Note:
+  Trying to avoid making only one pass at a thing.
+
+---
+
 ### Metaphor
 
 <img src="img/golf.jpg" alt="Golf" height="50%" width="50%">
