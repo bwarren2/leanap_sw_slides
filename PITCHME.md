@@ -49,5 +49,5 @@ Note:
 @ul
 - This is a **consultative** meeting
 - Anyone + everyone can contribute their perspective
-- Final Decision split between PM and Dev
+- Final cut of work split between PM and Dev
 @ulend
