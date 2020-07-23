@@ -32,7 +32,7 @@ Note:
 
 ---
 
-### Metaphor
+### Like This
 
 <img src="img/golf.jpg" alt="Golf" height="50%" width="50%">
 
