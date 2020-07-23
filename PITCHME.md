@@ -2,17 +2,18 @@
 
 ---
 
-### Purpose
-
 Goal:
+
 @ul
 - Feature set triangulation
 @ulend
 
 Success:
+
 @ul
 - narrowing the feature space
 - decreasing unknowns
+- tickets for features to be "done"
 @ulend
 
 
