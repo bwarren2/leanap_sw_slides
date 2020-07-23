@@ -2,7 +2,7 @@
 
 ---
 
-#### Goal
+#### Objective
 
 @ul
 - Feature set triangulation
