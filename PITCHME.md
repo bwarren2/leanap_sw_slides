@@ -6,12 +6,12 @@
 
 Goal:
 @ul
-- Feature set triangulation.
+- Feature set triangulation
 @ulend
 
 Success:
 @ul
-- narrowing the feature space,
+- narrowing the feature space
 - decreasing unknowns
 @ulend
 
