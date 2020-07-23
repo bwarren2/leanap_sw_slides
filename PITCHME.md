@@ -44,6 +44,7 @@ Note:
 ### Agenda
 
 @ul
+- frame the meeting (3min, *you are here*)
 - share feature (10min)
 - questions (5-10min)
 - funretro cards (5-10min)
