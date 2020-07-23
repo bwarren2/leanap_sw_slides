@@ -2,13 +2,13 @@
 
 ---
 
-Goal:
+##### Goal
 
 @ul
 - Feature set triangulation
 @ulend
 
-Success:
+##### Success
 
 @ul
 - narrowing the feature space
