@@ -1,4 +1,4 @@
-# LeanAP + Shared Workspace WIP Demo
+### LeanAP + Shared Workspace WIP Demo
 
 ---
 
