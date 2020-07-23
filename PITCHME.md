@@ -8,9 +8,9 @@ Feature set triangulation.
 
 Success = narrowing the feature space, decreasing unknowns
 
-_Still need to build it for real._
 
 Note:
+  _Still need to build it for real._
   Style is not a focus.
 
 ---
