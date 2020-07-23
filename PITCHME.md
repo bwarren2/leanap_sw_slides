@@ -10,7 +10,7 @@ Success = narrowing the feature space, decreasing unknowns
 
 _Still need to build it for real._
 
-Notes:
+Note:
   Style is not a focus.
 
 ---
@@ -19,5 +19,5 @@ Notes:
 
 ![Foo](img/golf.png)
 
-Notes:
+Note:
   Think about this like a hole in golf.  You start with bigger, less accurate shots, and use smaller, more accurate shots until you hit your objective.  _It is important the objective does not move_.
