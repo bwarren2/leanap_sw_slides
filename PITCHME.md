@@ -4,9 +4,17 @@
 
 ### Purpose
 
-Feature set triangulation.
+Success =
 
-Success = narrowing the feature space, decreasing unknowns
+@ul
+- Feature set triangulation.
+@ulend
+
+Success is:
+@ul
+- narrowing the feature space,
+- decreasing unknowns
+@ulend
 
 
 Note:
