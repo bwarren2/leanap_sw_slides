@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git aa
+git ci -m "Edits"
+git push
